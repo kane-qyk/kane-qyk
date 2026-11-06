@@ -13,6 +13,6 @@
 
 <a href="https://github.com/kane-qyk/github-readme-stats"><img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kane-qyk&langs_count=6&layout=compact&theme=tokyonight" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kane-qyk&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![kane-qyk's GitHub activity graph](https://github-act-graph.rodriaum.com/graph?username=kane-qyk&days=31&theme=github&type=bar&area=true&grid=true&hide_title=true&hide_border=true&height=420&radius=0)](https://github.com/kane-qyk)
 
 ---
